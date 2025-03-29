@@ -7,7 +7,7 @@ Machine Learning Engineer from India specializing in AI Chatbots and Recommendat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laxmi-narayan-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laxmi Narayan Sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laxmi-narayan-sharma-b17888250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Laxmi Narayan Sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Coding Profiles:</h3>
